@@ -5,26 +5,6 @@ layout: page
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head><title>Hui Jiang</title>
 
-<link href="cgb.css" rel="stylesheet" type="text/css"></head>
-<style type="text/css">
-    .auto-style1 {
-        text-decoration: underline;
-    }
-    .auto-style2 {
-        font-size: small;
-        font-style: italic;
-    }
-    .auto-style3 {
-        font-size: small;
-    }
-    .auto-style4 {
-        font-size: small;
-        font-weight: bold;
-    }
-    .auto-style5 {
-        width: 800px;
-    }
-</style>
 <body>
 <table border="0" width="436">
 <tbody>
