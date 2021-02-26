@@ -45,12 +45,12 @@ developing statistical and computational methods for the analysis of
 large-scale biological data generated using modern high-throughput
 technologies.</p>
 <p><strong>Research Interests</strong></p>
-<p><strong>Statistical Genomics and Bioinformatics</strong></p>
-<p> High-throughput sequencing data analysis,
+<p><strong>Statistical Genomics and Bioinformatics</strong><br>
+High-throughput sequencing data analysis,
 RNA-Seq, gene expression, alternative splicing, gene regulation,
 sequence alignment</p>
-<p> <strong>Statistical Computing</strong></p>
-<p> Resampling, Bayesian inference, machine
+<p> <strong>Statistical Computing</strong><br>
+Resampling, Bayesian inference, machine
 learning, numerical methods</p>
   
 <p><strong><a href="software.html">Software & Programs</a></strong></p>
