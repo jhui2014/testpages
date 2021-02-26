@@ -45,17 +45,14 @@ developing statistical and computational methods for the analysis of
 large-scale biological data generated using modern high-throughput
 technologies.</p>
 <p><strong>Research Interests</strong></p>
-<ul>
-<li><strong>Statistical Genomics and Bioinformatics</strong>
-<li> High-throughput sequencing data analysis,
+<strong>Statistical Genomics and Bioinformatics</strong></p>
+<p> High-throughput sequencing data analysis,
 RNA-Seq, gene expression, alternative splicing, gene regulation,
-sequence alignment</li>
-</li>
-<li> <strong>Statistical Computing</strong>
-<li> Resampling, Bayesian inference, machine
-learning, numerical methods</li>
-</li>
-</ul>
+sequence alignment</p>
+<p> <strong>Statistical Computing</strong></p>
+<p> Resampling, Bayesian inference, machine
+learning, numerical methods</p>
+  
 <p><strong><a href="software.html">Software & Programs</a></strong></p>
 <p><strong>Special Issue </strong> (<em>genes</em>) <a href="https://www.mdpi.com/journal/genes/special_issues/statistical_methods"> Statistical Methods for the Analysis of Genomic Data</a> </p>
 <p><strong>Selected Publications <small>(<a href="http://scholar.google.com/citations?user=LszKw2cAAAAJ&amp;hl=en">Google Scholar</a>) </small>
