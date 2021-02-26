@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 <table border="0" width="436">
