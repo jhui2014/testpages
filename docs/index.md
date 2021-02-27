@@ -72,7 +72,7 @@ learning, numerical methods</p>
             </li>
   <li>
      <p class="p2">
-         <span class="auto-style3">Liu T, Jiang H (2019) Minimizing Sum of Truncated Convex Functions and its Applications</span>. <span class="auto-style2">Journal of Computational and Graphical Statistics</span><span class="auto-style3">, 28 (1): 1-10. </span>[<a href="http://www.tandfonline.com/doi/full/10.1080/10618600.2017.1390471"><span class="auto-style3">online</span></a>][<a href="https://arxiv.org/abs/1608.00236"><span class="auto-style3">arXiv</span></a><span class="auto-style3">][<a href="stcf/">code</a>]</span></span></p>
+         <span class="auto-style3">Liu T, Jiang H (2019) Minimizing Sum of Truncated Convex Functions and its Applications</span>. <span class="auto-style2">Journal of Computational and Graphical Statistics</span><span class="auto-style3">, 28 (1): 1-10. </span>[<a href="http://www.tandfonline.com/doi/full/10.1080/10618600.2017.1390471"><span class="auto-style3">online</span></a>][<a href="https://arxiv.org/abs/1608.00236"><span class="auto-style3">arXiv</span></a><span class="auto-style3">][<a href="stcf/">code</a>]</span></p>
  </li>
  <li>
   <p class="p2">
