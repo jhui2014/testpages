@@ -93,7 +93,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 960px;
   margin: 0 auto;
 }
 
@@ -221,7 +221,7 @@ em {
 
 table {
   width: 100%;
-  border: 1px solid #ebebeb;
+  border: 0px solid #ebebeb;
 }
 
 th {
@@ -299,7 +299,7 @@ blockquote {
 
 ul li {
   list-style-position: inside;
-  list-style: disc;
+  list-style: none;
   padding-left: 20px;
 }
 
@@ -374,3 +374,21 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+.auto-style1 {
+		text-decoration: underline;
+}
+.auto-style2 {
+		font-size: small;
+		font-style: italic;
+}
+.auto-style3 {
+		font-size: small;
+}
+.auto-style4 {
+		font-size: small;
+		font-weight: bold;
+}
+.auto-style5 {
+		width: 800px;
+}
