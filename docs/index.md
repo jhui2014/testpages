@@ -35,7 +35,7 @@ Ann Arbor, Michigan 48109-2029</p>
 <p> Hui Jiang is an Associate Professor in the Department
 of Biostatistics at University of Michigan. He received his Ph.D. in <a href="http://icme.stanford.edu/">Computational and
 Mathematical Engineering</a> from <a href="http://www.stanford.edu/">Stanford University</a>
-in 2009. He received his B.S. and M.S. in <a href="http://eecs.pku.edu.cn/eecs_english/aboutUs.shtml">Computer
+in 2009. He received his B.S. and M.S. in <a href="http://eecs.pku.edu.cn/Home/HOME.htm">Computer
 Science</a> from <a href="http://english.pku.edu.cn">Peking
 University</a>. Before joining the University of Michigan in
 2011, he was a postdoctoral scholar in the <a href="http://www-stat.stanford.edu/">Department of Statistics</a>
